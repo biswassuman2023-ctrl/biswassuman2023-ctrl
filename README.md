@@ -11,9 +11,9 @@
 <pre>
 💻 Full-stack web development
 🎨 Interactive experiences • 3D • WebGL
-⚛️ React • Node.js • PostgreSQL
-🌌 Building Stellar Echoes & other experiments
-🇯🇵 Learning Japanese • aiming for Japan
+⚛️ React • Node.js • PostgreSQL • Express.js
+🌌 Building Stellar Echoes & other experiments 
+🇯🇵 Learning Japanese Passionately • Aiming for Japan
 </pre>
 
 <br>
